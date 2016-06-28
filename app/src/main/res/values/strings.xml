@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Otto App</string>
+    <string name="clear_location">Clear Location</string>
+    <string name="move_location">Move</string>
+</resources>
